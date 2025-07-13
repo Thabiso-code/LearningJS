@@ -1,2 +1,2 @@
-# Learning JavaScript Basics
+# LearningJS
 Learning JavaScript with the FNB App Academy
